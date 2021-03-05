@@ -25,7 +25,18 @@
 
 #### **Code examples**
 
-*So far empty*
+Python code
+```
+def hello(name):
+    return 'Hello ' + name + ' !'
+```
+JavaScript code
+``` 
+function hello(name){
+  return `Hello ${name} !`;  
+}
+```
+
 
 #### **Work experience**
 
