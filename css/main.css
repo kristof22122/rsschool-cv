@@ -1,6 +1,31 @@
-section {
-    /* background: #b1c8f1;  */
-    padding: 20px; 
-    /* border: 1px solid #f0ff1a; */
-    margin: 2px; 
-   } 
+section {    
+    padding: 20px;     
+    margin: 2px;
+    margin-left:auto;
+    margin-right:auto; 
+   }
+
+div {
+    padding: 10px;
+    float: left;
+    text-align: center;
+    margin: 0 10px 10px 0;
+    
+}
+
+figure {
+padding: 10px; 
+width: 150px; 
+float: left; 
+margin: 0 10px 10px 0;
+text-align: center; 
+}
+
+
+.all_page {
+    margin: 0 auto;
+    background-color: rgb(205, 205, 212);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+
+}
